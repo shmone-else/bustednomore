@@ -1,0 +1,4 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sModDesc,sprite
+Surface-Level Structural Repair,shm_dmodrepair,0,,,,,3000,TRUE,FALSE,FALSE,0,0,0,0,shmoneelse.bustednomore.hullmods.dmodrepair,"Commonly used by unscrupulous second-hand starship vendors. Removes the visual effects of d-mods.
+
+Make sure to carefully inspect your ships before buying.",Removes visual effects of d-mods.,,graphics/hullmods/structural_damage.png
